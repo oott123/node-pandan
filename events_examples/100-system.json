@@ -1,0 +1,20 @@
+{
+  "type": "100",  // 系统提示
+  "time": 1500123011,
+  "data": {
+    "from": {
+      "nickName": "admin",
+      "rid": "1"
+    },
+    "to": {
+      "toroom": "10029"
+    },
+    "content": {
+      "forbid_rid": "40732890",
+      "msg": "系统提示：雨化田大人已被房管禁言。",  // 提示信息
+      "show_notice": "1",
+      "type": "1",
+      "unlock_time": "1500123011"
+    }
+  }
+}

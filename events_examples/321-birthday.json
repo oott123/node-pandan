@@ -1,0 +1,17 @@
+{
+  "type": "321",  // 主播生日祝福
+  "time": 1500121862,
+  "data": {
+    "from": {
+      "nickName": "admin",
+      "rid": "1"
+    },
+    "to": {
+      "toroom": "0"
+    },
+    "content": {
+      "nickName": "这货不是小强啊",  // 生日主播昵称
+      "roomid": "970037"  // 生日主播ID
+    }
+  }
+}

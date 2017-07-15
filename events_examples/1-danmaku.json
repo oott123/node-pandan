@@ -1,0 +1,21 @@
+{
+  "type": "1",  // 普通弹幕信息
+  "time": 1500122030,
+  "data": {
+    "from": {
+      "identity": "30", // 普通用户：30；房管：60
+      "nickName": "独步_沧桑",
+      "badge": "",
+      "rid": "87385688",
+      "msgcolor": "",
+      "level": "6",
+      "sp_identity": "30",  // 好像是在当前房间的权限
+      "__plat": "android", // 用户平台，pc_web|pc_lobby|ios|ipad
+      "userName": ""
+    },
+    "to": {
+      "toroom": "10029"
+    },
+    "content": "王狮虎，带沃拉斯"
+  }
+}

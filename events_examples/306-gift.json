@@ -1,0 +1,38 @@
+{
+  "type": "306",  // 礼物
+  "time": 1500122643,
+  "data": {
+    "from": {
+      "identity": "30",
+      "nickName": "殇灬影_Acher",
+      "rid": "35093350",
+      "sp_identity": "0"
+    },
+    "to": {
+      "toroom": "10029"
+    },
+    "content": {
+      "avatar": "http://i9.pdim.gs/ca340a5832d0c11aac2283c496eb548f.jpeg",
+      "combo": "1",
+      "count": "1",
+      "effective": "2",
+      "group": "596a0e13ea3d1814383dc38c",
+      "id": "593e6f9db5061c53d748c573",
+      "name": "啪啪打脸",
+      "newBamboos": "186",
+      "newExp": "149.4",
+      "pic": {
+        "pc": {
+          "chat": "http://i5.pdim.gs/fd01e9ae2c10a38e42ea59cbf5b9295a.png",
+          "effect": "http://i5.pdim.gs/973e86a10c143cc015471ee03f59cc70.png"
+        }
+      },
+      "pic_ibag": {
+        "chat": "http://i8.pdim.gs/46fc9991cec5fc06c791af1ffe25bcc3.png",
+        "effect": "http://i5.pdim.gs/04c789519617f937022a449717547ecd.gif"
+      },
+      "position": "1,2",
+      "price": "0"
+    }
+  }
+}
