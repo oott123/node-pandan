@@ -1,6 +1,6 @@
 const Room = require('../lib/room')
 
-const room = new Room(10029)
+const room = new Room(process.argv[2])
 room.on('error', function (err) {
   console.error(err)
 })
