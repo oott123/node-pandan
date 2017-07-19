@@ -1,4 +1,4 @@
-const Room = require('../lib/room')
+const Room = require('../index').Room
 
 const room = new Room(process.argv[2])
 room.on('error', function (err) {
