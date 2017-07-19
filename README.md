@@ -1,5 +1,7 @@
 # pandan
 
+[![npm](https://img.shields.io/npm/v/pandan.svg?style=flat-square)](https://www.npmjs.com/package/pandan)
+
 熊猫 TV 弹幕连接解析库
 
 ## 使用方法
