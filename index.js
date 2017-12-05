@@ -3,5 +3,5 @@ module.exports = {
   pack: require('./lib/pack'),
   Packet: require('./lib/packet'),
   Room: require('./lib/room'),
-  roomApi: require('./lib/roomapi')
+  roomApi: require('./lib/roomApi')
 }
